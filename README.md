@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Torubiri Walter</h1>
-<h3 align="center">Learning Software Development at ALX</h3>
+<h3 align="center">Student of Software Engineering at ALX</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=toruwalt&label=Profile%20views&color=0e75b6&style=flat" alt="toruwalt" /> </p>
 
@@ -7,9 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/dev_wally" target="blank"><img src="https://img.shields.io/twitter/follow/dev_wally?logo=twitter&style=for-the-badge" alt="dev_wally" /></a> </p>
 
-- 🌱 I’m currently learning **Backend Development**
-
-- 📫 How to reach me **toruwalt@gmail.com**
+- 📫 How to reach me **https://linktr.ee/toruwalt**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
