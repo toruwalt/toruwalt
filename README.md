@@ -1,7 +1,36 @@
-<h1 align="center">Hi 👋, I'm Torubiri Walter</h1>
-<h3 align="center"> Software Engineering Student at ALX </h3>
-<h3 align="center"> https://linktr.ee/toruwalt </h3>
+<h3 align="center">About Me</h3>
 
+```yaml
+name: Torubiri Walter
+located_in: Edo, Nigeria
+current_job: Full Stack Developer
+education:
+  [
+    "Chemical Engineering at NDU",
+    "Software Engineering at ALX"
+  ]
+fields_of_interests:
+  [
+    "Web Development",
+    "Software Engineering",
+    "UI/UX",
+    "iOS Development",
+    "Android Development",
+    "DevOps",
+  ]
+technical_background:    
+  [
+    "Full Stack Developer"
+    "Intern - HTML and CSS developer"
+    "Intern - UI/UX"
+  ]
+  
+currently_learning: ["Docker, Django and React"]
+2024 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
+hobbies: ["Chess", "Movies", "Cooking", "Classical Drumming"]
+```
+<h3 align="center"> https://linktr.ee/toruwalt </h3>
+<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=toruwalt&label=Profile%20views&color=0e75b6&style=flat" alt="toruwalt" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=toruwalt" alt="toruwalt" /></a> </p>
