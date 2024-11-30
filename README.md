@@ -30,6 +30,14 @@ hobbies: ["Chess", "Movies", "Cooking", "Classical Drumming"]
 ```
 <h3 align="center"> https://linktr.ee/toruwalt </h3>
 <br>
+
+<br>
+<h2 align="center">My Certifications</h2>
+<div align="center">
+  <h4 align="center">Completion Of The ALX SE Program</h4>
+  <a href="https://intranet.alxswe.com/certificates/FP3LrM9Gx6"><img src="Certificates/Torubiri-Walter-SE-Certificate.png" alt="Torubiri Walter - ALX SE Certificate"></a>
+</div>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=toruwalt&label=Profile%20views&color=0e75b6&style=flat" alt="toruwalt" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=toruwalt" alt="toruwalt" /></a> </p>
