@@ -28,15 +28,17 @@ currently_learning: ["Docker, Django and React"]
 2024 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
 hobbies: ["Chess", "Movies", "Cooking", "Classical Drumming"]
 ```
-<h3 align="center"> https://linktr.ee/toruwalt </h3>
+<br>
+<h3 align="center"> [Know Walter better](https://linktr.ee/toruwalt) </h3>
 <br>
 
-<br>
 <h2 align="center">My Certifications</h2>
 <div align="center">
   <h4 align="center">Completion Of The ALX SE Program</h4>
   <a href="https://intranet.alxswe.com/certificates/FP3LrM9Gx6"><img src="Certificates/Torubiri-Walter-SE-Certificate.png" alt="Torubiri Walter - ALX SE Certificate"></a>
 </div>
+<br>
+<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=toruwalt&label=Profile%20views&color=0e75b6&style=flat" alt="toruwalt" /> </p>
 
