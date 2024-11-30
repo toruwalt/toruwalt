@@ -2,7 +2,7 @@
 ```yaml
 name: Torubiri Walter
 located_in: Edo, Nigeria
-current_job: Full Stack Developer
+expertise: Full Stack Development
 education:
   [
     "Chemical Engineering at NDU",
@@ -29,7 +29,7 @@ currently_learning: ["Docker, Django and React"]
 hobbies: ["Chess", "Movies", "Cooking", "Classical Drumming"]
 ```
 <br>
-<h3 align="center"> [Know Walter better](https://linktr.ee/toruwalt) </h3>
+ <strong><h1 align="center"><a href="https://linktr.ee/toruwalt">👉  Know Walter better</a></h1></strong>.
 <br>
 
 <h2 align="center">My Certifications</h2>
@@ -41,7 +41,7 @@ hobbies: ["Chess", "Movies", "Cooking", "Classical Drumming"]
 <br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=toruwalt&label=Profile%20views&color=0e75b6&style=flat" alt="toruwalt" /> </p>
-
+<br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=toruwalt" alt="toruwalt" /></a> </p>
 
 <h3 align="left">Languages and Tools:</h3>
